@@ -408,7 +408,7 @@
 #endif
 // ############################# END OF VARIANT_PPM SETTINGS ############################
 
-//uncommented right wheel
+
 // ################################# VARIANT_PWM SETTINGS ##############################
 #ifdef VARIANT_PWM
 /* ###### CONTROL VIA RC REMOTE ######
