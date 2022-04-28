@@ -361,7 +361,7 @@
     #define FLASH_WRITE_KEY       0x1003  // Flash memory writing key. Change this key to ignore the input calibrations from the flash memory and use the ones in config.h
     #define DEBUG_SERIAL_USART2           // left sensor cable debug
   #endif
-//
+
   // # maybe good for ARMCHAIR #
   #define FILTER                  3276    //  0.05f
   #define SPEED_COEFFICIENT       8192    //  0.5f
