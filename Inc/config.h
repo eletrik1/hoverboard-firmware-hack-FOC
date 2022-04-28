@@ -370,7 +370,7 @@
 #endif
 // ############################# END OF VARIANT_NUNCHUK SETTINGS #########################
 
-
+//both wheels
 
 // ################################# VARIANT_PPM SETTINGS ##############################
 #ifdef VARIANT_PPM
